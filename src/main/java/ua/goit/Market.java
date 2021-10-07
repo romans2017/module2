@@ -70,6 +70,7 @@ public class Market {
 
     public static void main(String[] args) {
         Market market = new Market();
+        System.out.println("Input string-basket:");
         System.out.println(market.readProducts().readBasket(System.in).calculateTotalCost());
     }
 }
