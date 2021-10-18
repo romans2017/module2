@@ -1,4 +1,4 @@
-package ua.goit.model;
+package ua.goit.module2.model;
 
 import java.util.HashMap;
 
